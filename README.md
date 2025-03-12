@@ -1,3 +1,5 @@
+This is an archive of Loopdown, it is no longer maintained. I don't know swift, so I can't port it to newer macos.
+
 I cannot continue maintaining this anymore, I tried, but I'm just not in a space where I can keep up with this, and I have no passion/desire to learn Swift to migrate this tool (which desperately needs doing).
 
 I really hope someone else can step up, or better yet, Apple can get their act together and make available any tools that they have that could make the lives better for Mac admins that need to deploy Garageband, et al.
